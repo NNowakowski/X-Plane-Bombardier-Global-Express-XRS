@@ -36374,7 +36374,7 @@ P acf/_ground_pwr/2 15.659999847
 P acf/_ground_pwr/count 3
 P acf/_gyro_spooldown_time 60.000000000
 P acf/_gyro_spoolup_time 5.000000000
-P acf/_h_eqlbm 6.546622753
+P acf/_h_eqlbm 6.546623230
 P acf/_has_ADG 0
 P acf/_has_APU_bleed_air 1
 P acf/_has_APU_generator 1
@@ -36607,7 +36607,7 @@ P acf/_n2_power_curve 1.000000000
 P acf/_name Global Express XRS
 P acf/_new_plot_XP3D_cock/0 0
 P acf/_new_plot_outer_acf/0 0
-P acf/_no_default_engine_fx 1
+P acf/_no_default_engine_fx 0
 P acf/_no_default_gear_fx 0
 P acf/_no_default_gun_fx 0
 P acf/_no_default_jato_fx 0
@@ -37101,7 +37101,7 @@ P acf/_tank_xyz_full/8,1 0.000000000
 P acf/_tank_xyz_full/8,2 0.000000000
 P acf/_tank_xyz_full/i_count 9
 P acf/_tank_xyz_full/j_count 3
-P acf/_the_eqlbm 0.146100849
+P acf/_the_eqlbm 0.146100029
 P acf/_thro_non_vect_props_at_sin_vect 0
 P acf/_thro_x_ctr 0.000000000
 P acf/_throt_max_fwd_emr 1.039999962
