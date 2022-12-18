@@ -34678,7 +34678,7 @@ P acf/_ann_wav_file/count 198
 P acf/_ap_crs_src 0
 P acf/_apt_req_plane 1
 P acf/_asi_is_kts 1
-P acf/_author RobertSV
+P acf/_author RobertSV, NNowakowski
 P acf/_auto_cowl_flaps_EQ 1065353216
 P acf/_auto_engage_BC_deg 0.000000000
 P acf/_auto_omega_fire 0.000000000
@@ -35736,7 +35736,7 @@ P acf/_default_livery_name Default
 P acf/_deg_psi_per_deg_def 12.000000000
 P acf/_deg_the_per_deg_def 6.000000000
 P acf/_delta3 0.000000000
-P acf/_descrip GLOBAL EXPRESS XRS
+P acf/_descrip Bombardier Global Express XRS
 P acf/_diff_coll_with_hdng 0.000000000
 P acf/_diff_coll_with_ptch 0.000000000
 P acf/_diff_coll_with_roll 0.000000000
@@ -36374,7 +36374,7 @@ P acf/_ground_pwr/2 15.659999847
 P acf/_ground_pwr/count 3
 P acf/_gyro_spooldown_time 60.000000000
 P acf/_gyro_spoolup_time 5.000000000
-P acf/_h_eqlbm 6.546622753
+P acf/_h_eqlbm 6.546623230
 P acf/_has_ADG 0
 P acf/_has_APU_bleed_air 1
 P acf/_has_APU_generator 1
@@ -37101,7 +37101,7 @@ P acf/_tank_xyz_full/8,1 0.000000000
 P acf/_tank_xyz_full/8,2 0.000000000
 P acf/_tank_xyz_full/i_count 9
 P acf/_tank_xyz_full/j_count 3
-P acf/_the_eqlbm 0.146100849
+P acf/_the_eqlbm 0.146100029
 P acf/_thro_non_vect_props_at_sin_vect 0
 P acf/_thro_x_ctr 0.000000000
 P acf/_throt_max_fwd_emr 1.039999962
