@@ -36124,8 +36124,8 @@ P acf/_ff_rat_idle_JET 0.100000001
 P acf/_ff_rat_idle_PRP 0.000000000
 P acf/_ff_rat_idle_turbo 0.000000000
 P acf/_file_writer_version 120057
-P acf/_fixed_max/0 0.000000000
-P acf/_fixed_max/1 0.000000000
+P acf/_fixed_max/0 2830.000000000
+P acf/_fixed_max/1 940.000000000
 P acf/_fixed_max/2 0.000000000
 P acf/_fixed_max/3 0.000000000
 P acf/_fixed_max/4 0.000000000
@@ -36137,10 +36137,10 @@ P acf/_fixed_max/count 9
 P acf/_fixed_name/count 9
 P acf/_fixed_ref/0,0 0.000000000
 P acf/_fixed_ref/0,1 0.000000000
-P acf/_fixed_ref/0,2 0.000000000
+P acf/_fixed_ref/0,2 39.768119812
 P acf/_fixed_ref/1,0 0.000000000
 P acf/_fixed_ref/1,1 0.000000000
-P acf/_fixed_ref/1,2 0.000000000
+P acf/_fixed_ref/1,2 99.831886292
 P acf/_fixed_ref/2,0 0.000000000
 P acf/_fixed_ref/2,1 0.000000000
 P acf/_fixed_ref/2,2 0.000000000
@@ -36165,7 +36165,7 @@ P acf/_fixed_ref/8,2 0.000000000
 P acf/_fixed_ref/i_count 9
 P acf/_fixed_ref/j_count 3
 P acf/_fixed_role/0 0
-P acf/_fixed_role/1 0
+P acf/_fixed_role/1 1
 P acf/_fixed_role/2 0
 P acf/_fixed_role/3 0
 P acf/_fixed_role/4 0
@@ -36551,7 +36551,7 @@ P acf/_lock_n2 0.000000000
 P acf/_lock_with_elev_EQ 0
 P acf/_m_displaced 0.000000000
 P acf/_m_displaced_Y 0.000000000
-P acf/_m_empty 5.146E4
+P acf/_m_empty 5.223E4
 P acf/_m_fuel_max_tot 4.5E4
 P acf/_m_jett 0.000000000
 P acf/_m_max 9.975E4
