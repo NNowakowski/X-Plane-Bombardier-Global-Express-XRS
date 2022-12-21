@@ -1,6 +1,6 @@
 I
 10 Version
-_hobs_time 6909.176391
+_hobs_time 52037.969312
 _iql_view_type_0 v_3dc
 _iql_pe_x_0 -0.624840
 _iql_pe_y_0 1.331976
@@ -97,10 +97,12 @@ _wind_display_2 0
 _inset_map_2 1
 _dg_lat_adjust_0 0.000000
 _dg_lat_adjust_1 0.000000
-_dg_lat_adjust_2 46.912109
-_dg_lat_adjust_3 46.912109
-_dg_lat_adjust_4 46.912109
-_dg_lat_adjust_5 46.912109
+_dg_lat_adjust_2 54.913109
+_dg_lat_adjust_3 54.913109
+_dg_lat_adjust_4 54.913109
+_dg_lat_adjust_5 54.913109
 atc/_acf_make_ BOMBARDIER
-atc/_acf_model_ E-11
+atc/_acf_model_ BD-700 Global Express
 atc/_acf_tailnumber_ OE-LXR
+atc/_acf_airline_/Netjets NetJets Europe
+atc/_acf_flight_num_/Netjets 749

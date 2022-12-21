@@ -1,1 +1,10 @@
 .idea/
+
+# Ignore sound pack
+Bombardier Global Express XRS/fmod/
+Bombardier Global Express XRS/sounds/
+Bombardier Global Express XRS/plugins/xlua/scripts/ATC/
+Bombardier Global Express XRS/plugins/xlua/scripts/BleedAir/
+Bombardier Global Express XRS/plugins/xlua/scripts/Gpws/
+Bombardier Global Express XRS/plugins/xlua/scripts/Hydraulics/
+Bombardier Global Express XRS/plugins/xlua/scripts/PA/
